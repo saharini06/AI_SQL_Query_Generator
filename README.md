@@ -5,6 +5,16 @@ An AI-powered application that converts natural language questions into SQL quer
 The application provides an interactive Streamlit interface for exploring databases, generating SQL using AI, explaining queries, suggesting optimizations, executing queries, visualizing results, and exporting data as CSV.
 
 ---
+## 🚀 Live Demo
+
+👉 **[Launch AI SQL Query Generator](https://aisqlquerygenerator-cuhae2huehc5sefbxbfzkf.streamlit.app/)**
+
+💻 **[View Source Code on GitHub](https://github.com/saharini06/AI_SQL_Query_Generator)**
+
+## 🔗 Project Links
+
+- 💻 **GitHub Repository:** [AI SQL Query Generator](https://github.com/saharini06/AI_SQL_Query_Generator)
+- 🚀 **Live Demo:** [Try the AI SQL Query Generator](https://aisqlquerygenerator-cuhae2huehc5sefbxbfzkf.streamlit.app/)
 
 ## 🚀 Overview
 
